@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Ee Loka Jeevithathil"
+title:  "Thalarneedalle Ee Loke"
 date:   2023-10-05 19:41:42 +0530
 categories: Malayalam Christian Songs
 --- 
 
 Tune: Similar to  Yesu En adistanam song
-
-ഈ ലോക ജീവിതത്തിൽ  
-തളർന്നീടരുതേ    
+  
+തളർന്നീടല്ലെ ഈ ലോകെ    
+യേശുവിൻ പൈതലെ  
 യേശുവിൽ ആശ്രയിക്കാ ..  
 അവൻ  നിന്നെ വഴിനടത്തും   
 

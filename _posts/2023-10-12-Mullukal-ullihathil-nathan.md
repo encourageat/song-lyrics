@@ -6,15 +6,14 @@ categories: Malayalam Christian Songs
 --- 
 
 മുള്ളുകൾ  ഉളളിഹത്തിൽ, നാഥൻ    
-കൈപിടിച്ചുയർത്തീടുമേ     
+കൈ പിടിച്ചീടുമെ     
 നാഥൻഉണ്ടെങ്കിൽ എന്തിനു     
 കേധിക്കേണമേ      
 
-യേശുവിൻ പൈതലെ  നീ     
-അവനിൽ  ആശ്രയിക്കാ        
-അവൻ നിന്നെ വഴിനടത്തും    
-നേർ വഴിയിലൂടെ     
-
+യേശുവിൻ പൈതലെ നീ      
+അവനിൽ ആശ്രയിക്കാ        
+അവൻ നിന്നെ വഴിനടത്തും  
+ഈ ലോകജീവിതത്തിൽ     
 
 എല്ലാം നന്മക്കായ്  ചെയ്യുന്ന    
 ദൈവത്തിൽ  ചാരീടുകാ  
@@ -38,4 +37,5 @@ categories: Malayalam Christian Songs
             മുള്ളുകൾ..
 
 
-For tune please visit [this](https://youtu.be/sE9_00czkE0) youtube video. 
+<!---For tune please visit [this](https://youtu.be/sE9_00czkE0) youtube video.--->
+                            

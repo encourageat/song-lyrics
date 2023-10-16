@@ -3,6 +3,7 @@ layout: post
 title:  "Old script - rewritten as Mullukal Ulli Ehathil"
 date:   2023-10-05 19:41:42 +0530
 categories: Malayalam Christian Songs
+published: false
 --- 
 
 Rewritten Link [here](https://encourageat.github.io/song-lyrics/malayalam/christian/songs/2023/10/12/Mullukal-ullihathil-nathan.html)

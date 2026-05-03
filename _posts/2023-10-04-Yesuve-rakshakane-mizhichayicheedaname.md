@@ -24,16 +24,16 @@ categories: Malayalam Christian Songs
 
                 യേശുവേ രക്ഷകനേ മിഴി ചായിയ്ച്ചീടണമേ 
 				
-<p><strong>Singer:</strong> Beneetha</p>
+<p><strong>Singer:</strong> Benitta</p>
 
-  <iframe 
-    width="100%" 
-    height="166" 
-    scrolling="no" 
-    frameborder="no" 
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2313664565">
-  </iframe>
+<iframe 
+  width="100%" 
+  height="166" 
+  scrolling="no" 
+  frameborder="no" 
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2313664565&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true">
+</iframe>
 
 
 

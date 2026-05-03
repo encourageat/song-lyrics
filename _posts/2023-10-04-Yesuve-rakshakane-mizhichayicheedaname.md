@@ -23,6 +23,17 @@ categories: Malayalam Christian Songs
 അടിയങ്ങളെ നിറക്കേണമേ
 
                 യേശുവേ രക്ഷകനേ മിഴി ചായിയ്ച്ചീടണമേ 
+				
+<p><strong>Singer:</strong> Beneetha</p>
+
+  <iframe 
+    width="100%" 
+    height="166" 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2313664565">
+  </iframe>
 
 
 
